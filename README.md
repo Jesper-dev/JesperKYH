@@ -15,7 +15,8 @@
   - Coding (ofc) :keyboard:
   - Play games :computer:
   - Watch series with my girlfriend :movie_camera:
-  - Hobby projects :+1:
+  - Hobby projects (code) :+1:
+  - Building Computers :hammer:
 
 **Scope right now**:
   - Doing a project with a swedish company
