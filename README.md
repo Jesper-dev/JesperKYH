@@ -7,7 +7,7 @@
  - CSS
  - JavaScript
  - REACT
- - VUE
+ - Vue
  - Strapi
  - Firebase/Firestore
 
