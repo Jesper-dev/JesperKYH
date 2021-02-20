@@ -25,6 +25,6 @@
 ## Want to colloaborate on anything? Ask me!
  
  **How to reach me**: 
-  - [Mail](jesper.pettersson00@hotmail.com) :email:
+  - [Mail](mailto:jesper.pettersson00@hotmail.com) :email:
  
  **My Portfolio**: [Portfolio](http://jesper-portfolio.surge.sh) :point_left:
