@@ -12,13 +12,19 @@
  - Firebase/Firestore
 
 **Things i love**: 
-  - Coding (ofc)
-  - Play games
-  - Watch series with my girlfriend
+  - Coding (ofc) :keyboard:
+  - Play games :computer:
+  - Watch series with my girlfriend :movie_camera:
+  - Hobby projects :+1:
+
+**Scope right now**:
+  - Doing a project with a swedish company
+  - Working on some hobby projects
+  - Learning Vue and Nuxt
 
 ## Want to colloaborate on anything? Ask me!
  
  **How to reach me**: 
-  - [Mail](jesper.pettersson00@hotmail.com)
+  - [Mail](jesper.pettersson00@hotmail.com) :email:
  
- **My Portfolio**: [Portfolio](http://jesper-portfolio.surge.sh)
+ **My Portfolio**: [Portfolio](http://jesper-portfolio.surge.sh) :point_left:
